@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.intuitive_controller_unity.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Greg\\Desktop\\Nitish Dissertation\\Unity_Files\\Intuitive_Controller_Unity\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Intuitive_Controller_Unity [Testing]"
+        }
+      }
+    }
+  ]
+}
