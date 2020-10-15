@@ -1,0 +1,6 @@
+devel_space: /home/nitish/intuitive_ros/devel
+install: false
+install_space: /home/nitish/intuitive_ros/install
+profile: default
+source_space: /home/nitish/intuitive_ros/src
+workspace: /home/nitish/intuitive_ros

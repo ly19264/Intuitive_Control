@@ -1,0 +1,8 @@
+prefix=/home/nitish/intuitive_ros/devel/.private/rosbridge_server
+
+Name: rosbridge_server
+Description: Description of rosbridge_server
+Version: 0.11.10
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

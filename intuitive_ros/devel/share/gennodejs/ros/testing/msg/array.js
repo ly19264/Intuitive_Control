@@ -1,0 +1,1 @@
+/home/nitish/intuitive_ros/devel/.private/testing/share/gennodejs/ros/testing/msg/array.js

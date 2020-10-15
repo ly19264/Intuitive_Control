@@ -1,0 +1,4 @@
+Symlinking /home/nitish/intuitive_ros/devel/share/rosbridge_server/cmake/rosbridge_serverConfig-version.cmake
+Symlinking /home/nitish/intuitive_ros/devel/share/rosbridge_server/cmake/rosbridge_serverConfig.cmake
+Symlinking /home/nitish/intuitive_ros/devel/lib/pkgconfig/rosbridge_server.pc
+Symlinking /home/nitish/intuitive_ros/devel/lib/python2.7/dist-packages/rosbridge_server/__init__.py

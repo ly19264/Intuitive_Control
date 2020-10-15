@@ -1,0 +1,1 @@
+/home/nitish/intuitive_ros/devel/.private/rosapi/share/roseus/ros/rosapi/srv/ServiceType.l

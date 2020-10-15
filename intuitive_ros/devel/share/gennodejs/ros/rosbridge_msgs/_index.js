@@ -1,0 +1,1 @@
+/home/nitish/intuitive_ros/devel/.private/rosbridge_msgs/share/gennodejs/ros/rosbridge_msgs/_index.js

@@ -1,0 +1,1 @@
+/home/nitish/intuitive_ros/devel/.private/franka_example_controllers/share/franka_example_controllers/cmake/franka_example_controllersConfig-version.cmake

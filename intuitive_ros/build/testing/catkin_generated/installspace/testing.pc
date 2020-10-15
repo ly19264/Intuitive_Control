@@ -1,0 +1,8 @@
+prefix=/home/nitish/intuitive_ros/install
+
+Name: testing
+Description: Description of testing
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

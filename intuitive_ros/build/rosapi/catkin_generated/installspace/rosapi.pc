@@ -1,0 +1,8 @@
+prefix=/home/nitish/intuitive_ros/install
+
+Name: rosapi
+Description: Description of rosapi
+Version: 0.11.10
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

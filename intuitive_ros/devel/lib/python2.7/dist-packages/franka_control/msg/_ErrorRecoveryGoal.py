@@ -1,0 +1,1 @@
+/home/nitish/intuitive_ros/devel/.private/franka_control/lib/python2.7/dist-packages/franka_control/msg/_ErrorRecoveryGoal.py
