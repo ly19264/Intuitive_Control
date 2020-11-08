@@ -60,7 +60,7 @@ def WayCheckPublisher(waycheckres):
     #rospy.init_node('WayCheck_1', anonymous=False)
     rate = rospy.Rate(1)
 
-    waycheck = array()
+    waycheck = array()    #new instance
 
     waycheck.int_array = waycheckres
 
